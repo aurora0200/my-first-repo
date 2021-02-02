@@ -1,29 +1,20 @@
-# This is a large heading
+# Carmen Aurora Monjaras Guajardo
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unkown*, the pet´s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitacion* and a **name**.
+I live in the city of Monterrey, in the state of Nuevo Leon, in Mexico
 
--This is
--an unordered
--list
+### Reading
+Three of my favorite books are:
+- *Harry Potter And the prisioner of Azkaban* by J.K. Rowling
+- *Percy Jackson* by Rick Riordan
+- *The DaVinci Code* by Dan Brown
 
-1. This is
-2.an ordered
-3. list
+### Food
+Last night I dreamt about eating in these restaurants:
+1. Yama-to Valle in San Pedro
+2. Mon Paris in Cumbres, MTY
+3. Gemma in New York City
 
-Here is `some code` in the middle of a sentence.
-
-```
-This is
-a block
-of code
-```
-
-Here is how you make [a link](https://www.wikipedia.org/).
-![this is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
-
-nano README.md
+### Contact
+The best way to get in touch with me is [on Facebook](www.facebook.com/monjarasguajardo/).
